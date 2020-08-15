@@ -593,7 +593,7 @@ Note: I have no strong opinions on horses.
 
 [Check out a demo of the
 above](https://cdn.rawgit.com/jakearchibald/80368b84ac1ae8e229fc90b3fe826301/raw/ad55049bee9b11d47f1f7d19a73bf3306d156f43/index-v2.html){: .external }.
-You should still see an image of a cat. Here's why…
+You should still see an image of a dog. Here's why…
 
 ### Install
 
